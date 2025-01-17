@@ -18,7 +18,6 @@ Basic
 - Contained inside a CKContainer
 
 Syncing
-- 
 
 Fetching
 
@@ -37,3 +36,5 @@ Cool Stuff
 
 Github repo check @mufasayc
 https://github.com/mufasayc
+
+https://github.com/mufasaYC/Bad-Habits
