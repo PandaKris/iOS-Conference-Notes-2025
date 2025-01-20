@@ -45,7 +45,7 @@ info.plist -> NSBluetoothAlwaysUsageDescription
 Background modes
 
 Bluetooth States (didUpdateState)
-- unknown, resetting, unsuported, unauthorized, poweredOff, poweredOn
+- unknown, resetting, unsupported, unauthorized, poweredOff, poweredOn
 
 CBUUID
 reference predefined uuid without having to state the long UUID
